@@ -1,7 +1,0 @@
-INDEX VERSION 1.4+E:\Abhijit\Git_Projects\Webapp_Jenkins\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
-2734232960.index
-231269458.index
-2854661628.index
-2070534783.index
-1353297882.index
-2636301970.index
